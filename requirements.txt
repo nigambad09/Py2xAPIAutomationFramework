@@ -1,7 +1,8 @@
 pytest
 selenium
+allure-pytest
+pyyaml
+webdriver-manager
 openpyxl
-PyYAML
 pytest-html
-
 pip install selenium pytest pytest-html openpyxl webdriver-manager
